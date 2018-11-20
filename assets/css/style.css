@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    width: 1400px;
+}
+
+.topcolor{
+    background-color: red;
+    margin-left: 200px;
+    
+}
+
+.topbar{
+
+    font-family: "Georgia", Times, Times New Roman, serif;
+    background-color: white;
+    line-height: 100px;
+    width: 960px;
+}
+
+#autobio{
+    font-family: "Arial", Helvetica Neu, Helvetica, sans-serif;
+}
+
+.name{
+    background-color: #4aaaa5;
+    font-size: 35px;
+    width: 35%;
+    color: white;
+    float: left;
+}
+
+.links{
+    color: #777777;
+    float: right;
+}
+
+#about, #portfolio{
+    margin-left: 25px;
+    margin-right: 40px;
+}
+
+.bottom{
+    clear: both;
+    overflow:auto;
+    background-color: #cccccc;
+}
+
+.box_holder{
+    background-color: white;
+    width: 960px;
+    margin-left: 200px;
+    margin-top: 50px;
+    border: solid 1px #dddddd;
+    margin-bottom: 300px;
+}
+
+.about_me_title{
+    text-align: left;
+    color: #4aaaa5;
+    font-size: 33px;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    padding: 30px;
+    border-bottom: solid 1px green;
+
+}
+
+
+img{
+    float: left;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+
+}
+
+#autobio{
+    text-align: left;
+    font-family: "Georgia", Times, Times New Roman, serif;
+    
+}
+
+footer{
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    padding-top: 25px;
+    padding-bottom: 3px;
+    color: white;
+    font-size: 15px;
+}
+
+
+
